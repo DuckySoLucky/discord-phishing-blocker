@@ -1,0 +1,13 @@
+{
+  "name": "discord-phishing-blocker",
+  "version": "1.0.0",
+  "description": "Simple Discord bot which deletes all messages which contain phishing links.",
+  "main": "index.js",
+  "author": "DuckySoLucky",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "https": "1.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
